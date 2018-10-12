@@ -63,3 +63,5 @@ data/config.json
 data/log*.txt
 data/state.json
 data/log
+data/configuration.yaml
+
